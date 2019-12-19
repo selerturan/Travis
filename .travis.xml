@@ -1,0 +1,2 @@
+language: java
+script: "mvn -f WebOrnek1/pom.xml clean install cobertura:cobertura
